@@ -23,5 +23,8 @@
   "homepage": "https://github.com/ruslanguns/telegram_bot#readme",
   "dependencies": {
     "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.6"
   }
 }

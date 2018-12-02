@@ -1,0 +1,27 @@
+{
+  "name": "rusgunx_bot",
+  "version": "1.0.0",
+  "description": "Mi primer bot de Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslanguns/telegram_bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "rusgunx_bot"
+  ],
+  "author": "Ruslan Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslanguns/telegram_bot/issues"
+  },
+  "homepage": "https://github.com/ruslanguns/telegram_bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
